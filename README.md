@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://scontent.fhan3-4.fna.fbcdn.net/v/t1.6435-9/87493378_2470245033306364_9000459080959000576_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=174925&_nc_ohc=PHWo_UwfDNsAX8QI3uT&_nc_ht=scontent.fhan3-4.fna&oh=00_AT-OC9Mp_xrY2kqQUoxGQTZ57W20nkOlJZ1I0eys2XJ_hA&oe=61F83FD2">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/159985870458322944/b50adff099924dd5e6b72d13f77eb9d7.png?size=1024">
 </div>
   
   ##
@@ -25,6 +25,6 @@
   <a href = "mailto:duchinh0306@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/blackz36/blackz36/blob/output/github-contribution-grid-snake.svg)
  
 </div>
