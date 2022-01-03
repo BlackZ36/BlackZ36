@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
  FB: https://www.facebook.com/duchinh0306/
+
  IG: instagram.com/bun._.z
 
 <!---
