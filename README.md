@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning FPT University In Vietnam
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
- FB: https://www.facebook.com/duchinh0306/
-
- IG: instagram.com/bun._.z
+         FB: https://www.facebook.com/duchinh0306/
+         IG: instagram.com/bun._.z
 
 <!---
 BlackZ36/BlackZ36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
