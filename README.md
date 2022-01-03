@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BlackZ36
+- 👋 Hi, I’m BlackZ36
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning FPT University In Vietnam
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Cheese
 - 📫 How to reach me 
 -                     FB: https://www.facebook.com/duchinh0306/
 -                     IG: instagram.com/bun._.z
