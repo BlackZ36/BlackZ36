@@ -80,6 +80,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/BlackZ36/BlackZ36/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/BlackZ36/BlackZ36/blob/main/snake-2023.svg" alt="Snake animation" />
 
 ###
