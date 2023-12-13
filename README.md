@@ -1,4 +1,4 @@
-<div align="center" style="bỏder-radius: 25%">
+<div align="center" style="border-radius: 25%">
   <img height="200" src="https://media.discordapp.net/attachments/909042920324202496/1184393689355780136/tai_xuong.png?ex=658bcf94&is=65795a94&hm=40a2f5c31621c81a9e7a648b9a763600596beed92cc1cad9de60c2b46f6ee425&=&format=webp&quality=lossless&width=593&height=593"  />
 </div>
 
