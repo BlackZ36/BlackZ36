@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 <br>- 📚 <br>- ⚡</p>
+<p align="left">I'm Nguyen Duy Duc Chinh - Back-End Developer From Vietnam<br><br>- 🔭 <br>- 📚 <br>- ⚡</p>
 
 ###
 
