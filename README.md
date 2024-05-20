@@ -73,11 +73,10 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BlackZ36&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 ###
 
 <div align="center">
- 
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BlackZ36&theme=tokyonight&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 </div>
 
 ###
