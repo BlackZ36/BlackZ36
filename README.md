@@ -76,9 +76,7 @@
 ###
 
 <div align="center">
-   <a href="#">
-     <img src="https://streak-stats.demolab.com/?user=BlackZ36&theme=dracula&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak"/>
-   </a>
+   <a href="https://github.com/BlackZ36"><img src="https://streak-stats.demolab.com?user=BlackZ36&theme=tokyonight-duo&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 </div>
 
 ###
