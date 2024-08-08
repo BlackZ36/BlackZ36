@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img style="border-radius: 25px" height="300" src="https://raw.githubusercontent.com/BlackZ36/BlackZ36/main/Untitled-1.png"/>
+  <img style="border-radius: 30px" height="300" src="https://raw.githubusercontent.com/BlackZ36/BlackZ36/main/Untitled-1.png"/>
 </div>
 
 ####
