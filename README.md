@@ -20,7 +20,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BlackZ36.BlackZ36&left_text=Visitors"  />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=BlackZ36&theme=tokyonight-duo&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 </div>
 
 ###
