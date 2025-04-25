@@ -20,7 +20,7 @@
 ###
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=BlackZ36&theme=tokyonight-duo&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BlackZ36&theme=tokyonight-duo&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 </div>
 
 ###
