@@ -48,29 +48,27 @@
 
 <!-- Programming Languages -->
 <strong>💡 Programming Languages:</strong><br>
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,ts,py" height="40" />
+<img src="https://skillicons.dev/icons?i=c,cs,java,js" height="40" />
 <br><br>
 
 <!-- Frameworks & Platforms -->
 <strong>🧰 Frameworks & Platforms:</strong><br>
-<img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express,unity,androidstudio" height="40" />
+<img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,unity,androidstudio" height="40" />
 <br><br>
 
 <!-- Databases -->
 <strong>🗄 Databases:</strong><br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" height="40" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" height="40" />
 <br><br>
 
 <!-- Dev Tools -->
 <strong>🧪 Development Tools:</strong><br>
-<img src="https://skillicons.dev/icons?i=postman,git,github,gitlab,jira,vscode,visualstudio" height="40" />
+<img src="https://skillicons.dev/icons?i=postman,git,github,gitlab,vscode,visualstudio,jira" height="40" />
 <br><br>
 
 <!-- Design Tools -->
 <strong>🎨 Design & Multimedia:</strong><br>
-<img src="https://skillicons.dev/icons?i=ps,ae,xd" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg" height="40" alt="Lightroom" />
+<img src="https://skillicons.dev/icons?i=ps,ae,ai,pr" height="40" />
 <br><br>
 
 ###
