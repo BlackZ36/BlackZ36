@@ -35,43 +35,43 @@
 
 ###
 
-<p align="left">I'm Nguyen Duy Duc Chinh - Back-End Developer From Vietnam<br>
-  <br>- 🔭 Completed the journey across Vietnam
-  <br>- 📚 C#/.Net Back-End Developer.
-  <br>- ⚡ Always striving forward tirelessly.
+<p align="left">
+  I'm Nguyen Duy Duc Chinh - Full Stack Developer from Vietnam 🇻🇳<br><br>
+  - 🔭 Completed the journey across Vietnam<br>
+  - 💻 Full Stack Developer using .NET & React<br>
+  - ⚡ Always striving forward tirelessly
 </p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Skills & Tools</h3>
 
-###
+<!-- Programming Languages -->
+<strong>💡 Programming Languages:</strong><br>
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,ts,py" height="40" />
+<br><br>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
-</div>
+<!-- Frameworks & Platforms -->
+<strong>🧰 Frameworks & Platforms:</strong><br>
+<img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express,unity,androidstudio" height="40" />
+<br><br>
+
+<!-- Databases -->
+<strong>🗄 Databases:</strong><br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" height="40" />
+<br><br>
+
+<!-- Dev Tools -->
+<strong>🧪 Development Tools:</strong><br>
+<img src="https://skillicons.dev/icons?i=postman,git,github,gitlab,jira,vscode,visualstudio" height="40" />
+<br><br>
+
+<!-- Design Tools -->
+<strong>🎨 Design & Multimedia:</strong><br>
+<img src="https://skillicons.dev/icons?i=ps,ae,xd" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg" height="40" alt="Lightroom" />
+<br><br>
 
 ###
 
