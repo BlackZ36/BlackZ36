@@ -49,12 +49,12 @@
 <!-- Programming Languages -->
 <strong>💡 Programming Languages:</strong><br>
 <img src="https://skillicons.dev/icons?i=c,cs,java,js,html,css" height="40" />
-<br><br>
+<br>
 
 <!-- Frameworks & Platforms -->
 <strong>🧰 Frameworks & Platforms:</strong><br>
 <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,unity,androidstudio,vite,bootstrap" height="40" />
-<br><br>
+<br>
 
 <!-- Cloud & DevOps -->
 <strong>☁️ Cloud & Infrastructure:</strong><br>
@@ -64,23 +64,18 @@
 <!-- Databases -->
 <strong>🗄 Databases:</strong><br>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" height="40" />
-<br><br>
+<br>
 
 <!-- Dev Tools -->
 <strong>🧪 Development Tools:</strong><br>
 <img src="https://skillicons.dev/icons?i=postman,git,github,gitlab,vscode,visualstudio,idea,jira" height="40" />
-<br><br>
-
-<!-- Communication -->
-<strong>💬 Communication & Collaboration:</strong><br>
-<img src="https://skillicons.dev/icons?i=discord,gmail" height="40" />
-<br><br>
+<br>
 
 <!-- Design & Multimedia -->
 <strong>🎨 Design & Multimedia:</strong><br>
 <img src="https://skillicons.dev/icons?i=ps,ae,ai,pr" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender" />
-<br><br>
+<br>
 
 ###
 
